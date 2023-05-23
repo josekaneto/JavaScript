@@ -74,8 +74,10 @@ class Conrrente extends Conta{
         this.contadorTalao = contadorTalao
     }
 
-    pedirTalao(){
-
+    pedirTalao(quantidadeTalao){
+        if(quantidadeTalao == "1"){
+             op
+        }
     }
 
 }
